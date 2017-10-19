@@ -1,0 +1,11 @@
+Coffee Handscraped Hickory|10|5.25|47.25|2.49
+Highland Hickory|10|4.88|47.88|2.49
+Homestead Oak|10|7.50|47.25|2.59
+Southern Grey Oak|10|6.13|47.25|2.49
+Haley Oak|8|7.50|47.25|2.29
+Coffee Handscraped Hickory|12|5.25|47.25|2.69
+Sedona Oak|10|7.63|47.63|2.59
+Peruvian Mahogany|10|4.88|47.88|2.59
+Vermont Maple|10|4.88|47.88|2.59
+Natural Ridge Hickory|10|7.63|47.63|2.46
+black|10|10.00|10.00|3.50

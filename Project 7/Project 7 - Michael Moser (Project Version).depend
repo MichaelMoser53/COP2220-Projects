@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1460601222 source:c:\users\michael\desktop\project 7 - michael moser (project version)\laminate functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1460602753 source:c:\users\michael\desktop\project 7 - michael moser (project version)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1460601222 c:\users\michael\desktop\project 7 - michael moser (project version)\laminate.h
+
+1460603081 source:c:\users\michael\desktop\project 7 - michael moser\laminate functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1460603081 c:\users\michael\desktop\project 7 - michael moser\laminate.h
+
+1460603081 source:c:\users\michael\desktop\project 7 - michael moser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461089170 source:f:\codeblocks projects\project 7\laminate functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461121120 f:\codeblocks projects\project 7\laminate.h
+
+1461089170 source:f:\codeblocks projects\project 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461089170 source:k:\codeblocks projects\project 7\laminate functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461092262 k:\codeblocks projects\project 7\laminate.h
+
+1461089170 source:k:\codeblocks projects\project 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461093130 source:k:\codeblocks projects\project 7\maintenance menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461121144 source:f:\codeblocks projects\project 7\maintenance menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461122545 source:c:\users\michael\desktop\project 7\laminate functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461121120 c:\users\michael\desktop\project 7\laminate.h
+
+1461122057 source:c:\users\michael\desktop\project 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461121995 source:c:\users\michael\desktop\project 7\maintenance menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461188327 source:c:\users\michael\desktop\codeblocks projects\project 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461185443 c:\users\michael\desktop\codeblocks projects\project 7\laminate.h
+
+1461187222 source:c:\users\michael\desktop\codeblocks projects\project 7\maintenance menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
+1461177655 source:c:\users\michael\desktop\codeblocks projects\project 7\laminate functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"laminate.h"
+
